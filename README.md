@@ -6,6 +6,7 @@ public class Hello {
     public static void main(String[] args) {
         System.out.println("Hello Pull Request");
         System.out.println("Hello Pull MarkDown");
+        System.out.println("One Or Zero 팀 수료까지 열심히 화이팅입니다!");
     }
 }
 ```
