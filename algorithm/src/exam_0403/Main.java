@@ -13,3 +13,12 @@ public class Main {
         System.out.println((int) Math.ceil(result));
     }
 }
+// VVVVV
+// AA
+//  B
+//  AA
+//   B
+//   AA
+//    B
+//    AA
+// Ax - B(x-1) = V
